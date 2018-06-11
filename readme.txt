@@ -1,7 +1,7 @@
 
 Git test txt.
 
-This is the second version.
+Those are the second version.
 
 
 
